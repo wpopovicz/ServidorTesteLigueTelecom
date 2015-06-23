@@ -1,0 +1,3 @@
+br\com\ligueTelecom\service\cliente.class
+br\com\ligueTelecom\model\Dao.class
+br\com\ligueTelecom\service\cliente$cliente_JerseyClient.class
